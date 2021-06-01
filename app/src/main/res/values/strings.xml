@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello Geekbrains</string>
+    <string name="Кнопка">НАЖИМАТЬ</string>
+    <string name="ФИО">ФИО</string>
+    <string name="name">name</string>
+    <string name="OnOff">ВКЛ/ВЫКЛ</string>
+    <string name="HI">ПРИВЕТ ВСЕМ!!!</string>
+    <string name="_1">Режим1</string>
+    <string name="_2">Режим2</string>
+    <string name="surname">Фамилия</string>
+</resources>
