@@ -13,7 +13,8 @@
         android:layout_margin="12dp"
         tools:text=""
         android:gravity="right"
-        android:padding="12dp"/>
+        android:padding="12dp"
+        tools:ignore="MissingConstraints,RtlHardcoded" />
 
     <GridLayout
         android:id="@+id/buttonGrid"
@@ -21,7 +22,8 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:columnCount="3"
-        android:rowCount="3">
+        android:rowCount="3"
+        tools:ignore="MissingConstraints">
 
         <Button
             android:text="7" />
