@@ -206,5 +206,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@id/equal"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/button_multiply"/>
+        app:layout_constraintTop_toBottomOf="@id/button_multiply" />
 </androidx.constraintlayout.widget.ConstraintLayout>
